@@ -1,11 +1,11 @@
-# 🎓 Student Grade Calculator (Frontend Only)
+# Student Grade Calculator (Frontend Only)
 
 This is a simple web-based Grade Calculator built using **HTML**, **CSS**, and **JavaScript**.  
 It allows users to input marks for three subjects and calculates the **total**, **average**, and **grade** instantly on the browser.
 
 ---
 
-## 📌 Features
+##  Features
 
 - Input fields for student name and 3 subject marks
 - Calculates total marks and average
@@ -20,7 +20,7 @@ It allows users to input marks for three subjects and calculates the **total**, 
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -28,17 +28,17 @@ It allows users to input marks for three subjects and calculates the **total**, 
 
 ---
 
-## 🖥️ How to Run
+##  How to Run
 
 1. Download or clone the repository
 2. Open the `index.html` file in your browser
 3. Enter marks and click **Calculate Grade**
 
-> 💡 No need for any server or backend setup!
+>  No need for any server or backend setup!
 
 ---
 
-## 📷 Preview
+##  Preview
 
 ![Screenshot Placeholder](screenshot.png)
 
@@ -46,14 +46,14 @@ It allows users to input marks for three subjects and calculates the **total**, 
 
 ---
 
-## 👩‍💻 Created By
+##  Created By
 
 **Sudhiksha Krishnan**  
 First Java/Web Project | Exploring Frontend Development 💻✨
 
 ---
 
-## 📚 Future Plans
+##  Future Plans
 
 - Add input validation
 - Add support for more subjects
